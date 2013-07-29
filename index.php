@@ -49,19 +49,19 @@ body {
 </style>
 
 <script>
-/*$(document).ready(function(){
+$(document).ready(function(){
   $("button").click(function(){
     $("#result").load("action.php");
   });
-});*/
-$(document).ready(function() {
+});
+/*$(document).ready(function() {
   $('#ip').val('');
   $('#mac').val('');
   $("button").click(function(){
     //$("#result").load("index.php");
 	$('form#f').submit();
   });
-});
+});*/
 
 </script>
 </head>
